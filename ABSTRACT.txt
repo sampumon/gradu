@@ -1,0 +1,17 @@
+SAMPUMON SUPERHUB THESIS
+
+The SUPERHUB project¹ has created a journey planning scheme which encourages users towards sustainability and sociability. I have created a HTML5 visualization for the journey planning, which shows all possible transport types on same list and map, allowing the user to compare between different criterias.
+
+Possible transport types include public transportation (bus, tram, metro, train, ferry), car, taxi, walking, biking and skiing. For car, taxi and biking, also sharing schemes are included.
+
+Different criterias for journey results include duration, price, emissions, physical effort (walk/bike distance), total distance, disruptive events (accidents etc.) and goals set by the user.
+
+I argue that the visualization I have created is superior compared to current journey planners²³⁴⁵ (in Helsinki), since none of them offer all possible transport types (not even public transport and biking) on same visualization. On this thesis, I introduce the SUPERHUB project and current journey planners, and then present the visualization I created and results of its usability study.
+
+Tags: journey planning, public transport, sustainability, multi-transport, visualization, helsinki
+
+¹ http://superhub-project.eu/
+² http://maps.google.com/
+³ http://beta.reittiopas.fi/en/
+⁴ http://www.ihanhyväreittiopas.fi/
+⁵ https://sites.google.com/site/reittigps/
