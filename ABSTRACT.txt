@@ -1,12 +1,23 @@
 SAMPUMON SUPERHUB THESIS
 
-The SUPERHUB project¹ has created a journey planning scheme which encourages users towards sustainability and sociability. I have created a HTML5 visualization for the journey planning, which shows all possible transport types on same list and map, allowing the user to compare between different criterias.
+The SUPERHUB project¹ has created a multimodal journey planning scheme which encourages users towards sustainability and sociability. I have created an HTML5 visualization for the journey planning, which shows all possible transport types on the same map+list visualization, allowing users to compare between different criteria in one view.
 
-Possible transport types include public transportation (bus, tram, metro, train, ferry), car, taxi, walking, biking and skiing. For car, taxi and biking, also sharing schemes are included.
+The visualization shows, for example, the following journey plans per journey search:
 
-Different criterias for journey results include duration, price, emissions, physical effort (walk/bike distance), total distance, disruptive events (accidents etc.) and goals set by the user.
+- walk/bike
+- walk + shared bike (with bike stations)
+- walk + public transport
+- bike + public transport (accounting for transport bike acceptance)
+- car/taxi
+- car + public transport (with parking)
+- skiing (on winter! using ski track data)
+- skiing + public transport (yes for real)
 
-I argue that the visualization I have created is superior compared to current journey planners²³⁴⁵ (in Helsinki), since none of them offer all possible transport types (not even public transport and biking) on same visualization. On this thesis, I introduce the SUPERHUB project and current journey planners, and then present the visualization I created and results of its usability study.
+Each journey plan is simultaneously shown on a list and on a map, presenting all required criteria and decision data in one view.
+
+ADDENDUM-LIKE SECTION.  Possible transport types include public transportation (bus, tram, metro, train, ferry), car, taxi, walk, bike and skiing. For car, taxi and bike, sharing schemes are included.  Different criteria for journey plans include duration, price, emissions, physical effort, total distance, disruptive events (accidents etc.) and goals (towards sustainability) set by the user.
+
+I argue that the visualization created is superior compared to current journey planners²³⁴⁵, since none of them offer all possible transport types on same view. In fact, they usually only offer one trasport type per view. In this thesis, I introduce the SUPERHUB project and current journey planners which work in Helsinki. I then present the visualization I have created, results of its usability study, and future improvements for journey planning.
 
 Tags: journey planning, public transport, sustainability, multi-transport, visualization, helsinki
 
