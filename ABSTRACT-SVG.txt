@@ -1,0 +1,15 @@
+SVG GRAPHICAL WEB SUPERHUB SUPREME ABSTRACT
+
+The SUPERHUB project¹ has created a multimodal journey planning scheme which encourages users towards sustainability and sociability. We have created an HTML5 visualization for the journey planning, which shows all possible transport types on the same map+list visualization, allowing users to compare between different criteria in one view.
+
+Each journey plan is simultaneously shown on a synchronized list and map, presenting all required criteria and decision data in one view. We use Leaflet.js for the map, which in turn uses SVG for the map vectors.
+
+We argue that the visualization is superior compared to current journey planners²³⁴⁵, since none of them offer all possible transport types on same view.
+
+Tags: journey planning, public transport, sustainability, multi-transport, visualization, helsinki
+
+¹ http://superhub-project.eu/
+² http://maps.google.com/
+³ http://beta.reittiopas.fi/en/
+⁴ http://www.ihanhyväreittiopas.fi/
+⁵ https://sites.google.com/site/reittigps/
