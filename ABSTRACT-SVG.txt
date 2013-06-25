@@ -2,11 +2,13 @@ SVG GRAPHICAL WEB SUPERHUB SUPREME ABSTRACT
 
 The SUPERHUB project¹ has created a multimodal journey planning scheme which encourages users towards sustainability and sociability. We have created an HTML5 visualization for the journey planning, which shows all possible transport types on the same map+list visualization, allowing users to compare between different criteria in one view.
 
-Each journey plan is simultaneously shown on a synchronized list and map, presenting all required criteria and decision data in one view. We use Leaflet.js for the map, which in turn uses SVG for the map vectors.
+Each journey plan is simultaneously shown on a synchronized list and map, with possible disruptive events (accidents etc.), presenting all required criteria and decision data in one view. We use Leaflet.js for the map, which in turn uses SVG for the map vectors.
 
-We argue that the visualization is superior compared to current journey planners²³⁴⁵, since none of them offer all possible transport types on same view.
+During the development, we discovered that Leaflet.js is not well compatible with D3.js, as Leaflet uses JavaScript API, while D3 works by manipulating the SVG DOM. We created an adaptor bridge between these two with AngularJS.
 
-Tags: journey planning, public transport, sustainability, multi-transport, visualization, helsinki
+We argue that the visualization is superior compared to current journey planners²³⁴⁵, since none of them offer all possible transport types on same view. We also argue that the AngularJS adaptor has many uses in making SVG more usable with other, JavaScript-driven technologies.
+
+Tags: journey planning, public transport, sustainability, multi-transport, visualization, helsinki, svg, leaflet, angular, d3
 
 ¹ http://superhub-project.eu/
 ² http://maps.google.com/
